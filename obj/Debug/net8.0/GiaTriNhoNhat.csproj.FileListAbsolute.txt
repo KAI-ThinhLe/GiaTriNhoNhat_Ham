@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\bin\Debug\net8.0\GiaTriNhoNhat.exe
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\bin\Debug\net8.0\GiaTriNhoNhat.deps.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\bin\Debug\net8.0\GiaTriNhoNhat.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\bin\Debug\net8.0\GiaTriNhoNhat.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\bin\Debug\net8.0\GiaTriNhoNhat.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\refint\GiaTriNhoNhat.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\GiaTriNhoNhat.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\GiaTriNhoNhat\obj\Debug\net8.0\ref\GiaTriNhoNhat.dll
